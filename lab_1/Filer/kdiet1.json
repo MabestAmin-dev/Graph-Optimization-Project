@@ -1,0 +1,36 @@
+{
+    "MAT": ["havregryn", "kyckling", "agg",  "mjolk", "paj",  "bonor"], 
+    "BEHOV": ["energi", "protein", "kalcium"], 
+    "pris" :    {
+                    "havregryn" :  3,	    
+                    "kyckling"  : 24,     
+                    "agg" 	    : 13,     
+                    "mjolk" 	:  9,	    
+                    "paj"  	    : 20,	    
+                    "bonor" 	: 19
+                },	
+    "maxport" : {
+                    "havregryn" :  4,	    
+                    "kyckling"  :  3,     
+                    "agg" 	    :  2,     
+                    "mjolk" 	:  8,	    
+                    "paj"  	    :  2,	    
+                    "bonor" 	:  2
+                },	
+    "minkrav" : { 
+                    "energi"    :   2000,
+                    "protein"   :     55,    
+                    "kalcium"   :    800 
+                },
+    "maxkrav" : {
+                    "energi"    :   99999,
+                    "protein"   :   99999,
+                    "kalcium"   :   99999
+                },
+    "inneh"   : {
+                    "energi"  :	  {"havregryn" : 110,  "kyckling" : 205,  "agg" : 160,  "mjolk" : 160,  "paj" : 420, "bonor" : 260},
+                    "protein" :   {"havregryn" :   4,  "kyckling" :  32,  "agg" :  13,  "mjolk" :   8, 	"paj" :   4, "bonor" :  14},
+                    "kalcium" :   {"havregryn" :   2,  "kyckling" :  12,  "agg" :  54,  "mjolk" : 285, 	"paj" :  22, "bonor" :  80}
+                }
+}
+

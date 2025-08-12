@@ -1,0 +1,80 @@
+{
+    "MAT": ["spenat", "fronGHM", "hassel",  "jordgubbar", "loktrav", "smultron", "graslok", "bjornbar", "vin", "barhaggmispe", "havtorn", "rosenkvitten", "sibirisk", "apple"], 
+    "BEHOV": ["energi", "protein", "fett", "kolhyd" ], 
+    "pris" :    {
+                    "spenat"	    :  1,
+                    "fronGHM"       :  1,
+                    "hassel"	    :  1,
+                    "jordgubbar"    :  1,
+                    "loktrav"       :  1,
+                    "smultron"      :  1,
+                    "graslok"       :  1,
+                    "bjornbar"      :  1,
+                    "vin"           :  1,
+                    "barhaggmispe"  :  1,
+                    "havtorn"       :  1,
+                    "rosenkvitten"  :  1,
+                    "sibirisk"      :  1,
+                    "apple" 	    :  1
+                },	
+    "maxport" : {
+                    "spenat"	    :  9999999,
+                    "fronGHM"       :  9999999,
+                    "hassel"	    :  9999999,
+                    "jordgubbar"    :  9999999,
+                    "loktrav"       :  9999999,
+                    "smultron"      :  9999999,
+                    "graslok"       :  9999999,
+                    "bjornbar"      :  9999999,
+                    "vin"           :  9999999,
+                    "barhaggmispe"  :  9999999,
+                    "havtorn"       :  9999999,
+                    "rosenkvitten"  :  9999999,
+                    "sibirisk"      :  9999999,
+                    "apple" 	    :  9999999 
+                },	
+    "minkrav" : { 
+                    "energi"    :  2050,
+                    "protein"   :    55,
+                    "fett"      :    80,
+                    "kolhyd"    :   142  
+                },
+    "maxkrav" : {
+                    "energi"    :  9999999,
+                    "protein"   :  9999999,
+                    "fett"      :  9999999,
+                    "kolhyd"    :  9999999
+                },
+    "inneh"   : {
+                    "energi"	:   {"spenat" :   44,  "fronGHM" :  118,  "hassel" : 656.1,  "jordgubbar" : 41.2,  "loktrav" : 69.74,  "smultron" : 41.2,  "graslok" : 27.6,
+                                        "bjornbar" : 44.1,  "vin" :  75,  "barhaggmispe" :   85,  "havtorn" : 86.3,  "rosenkvitten" : 63.4,  "sibirisk" :  152,  "apple" :  47.9},
+                    "protein"  :   {"spenat" : 2.79,  "fronGHM" : 5.32,  "hassel" :    13,  "jordgubbar" : 0.49,  "loktrav" :  8.57,  "smultron" : 0.49,  "graslok" : 2.80,
+                                        "bjornbar" :  0.7,  "vin"  : 0.7,  "barhaggmispe" : 1.33,  "havtorn" : 0.7,  "rosenkvitten" :  0.4,  "sibirisk" : 15.1,  "apple" :     0},
+                    "fett"	    :  {"spenat" : 0.75,  "fronGHM" : 1.38,  "hassel" : 62.60,  "jordgubbar" : 0.21,  "loktrav" :  0.53,  "smultron" : 0.21,  "graslok" :  0.6,  
+                                        "bjornbar" :  0.4,  "vin" :  0.6,  "barhaggmispe" : 0.49,  "havtorn" : 5.0,  "rosenkvitten" :  0.1,  "sibirisk" : 3.32,  "apple" :  0.05},
+                    "kolhyd"	:  {"spenat" : 6.41,  "fronGHM" : 14.3,  "hassel" :   9.4,  "jordgubbar" : 8.29,  "loktrav" :  8.19,  "smultron" : 8.29,  "graslok" :  1.7, 
+                                        "bjornbar" :  6.5,  "vin" : 15.7,  "barhaggmispe" :   19,  "havtorn" : 6.3,  "rosenkvitten" : 13.1,  "sibirisk" : 15.0,  "apple" : 10.58}
+                }
+}
+
+
+
+
+
+# Förklaring:
+# spenat        Spenat
+# fronGHM       Frön från Gode Henriks målla
+# hassel	    Hassel
+# jordgubbar    Jordgubbar
+# loktrav       Löktrav
+# smultron      Smultron
+# graslok       Gräslök
+# bjornbar      Björnbär
+# vin           Vin
+# barhaggmispe  Bärhäggmispel
+# havtorn       Havtorn
+# rosenkvitten  Rosenkvitten
+# sibirisk      Sibirisk Ärtbuske
+# apple         Äpple
+#
+# enhet: 100 gram

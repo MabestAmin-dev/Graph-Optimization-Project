@@ -1,0 +1,54 @@
+{
+    "MAT": ["Quarter Pounder w/ Cheese", "McLean Deluxe w/ Cheese", "Big Mac", "Filet-O-Fish", "McGrilled Chicken", "Fries, small", "Sausage McMuffin", "1% Lowfat Milk", "Orange Juice"], 
+    "BEHOV": ["Cal", "Carbo", "Protein", "VitA", "VitC", "Calc", "Iron"], 
+    "pris" :    {
+                    "Quarter Pounder w/ Cheese"  :  1.84,
+                    "McLean Deluxe w/ Cheese"    :  2.19,
+                    "Big Mac"                    :  1.84,
+                    "Filet-O-Fish"               :  1.44,
+                    "McGrilled Chicken"          :  2.29,
+                    "Fries, small"               :  0.77,
+                    "Sausage McMuffin"           :  1.29,
+                    "1% Lowfat Milk"             :  0.60,
+                    "Orange Juice"               :  0.72 
+                },	
+    "maxport" : {
+                    "Quarter Pounder w/ Cheese"  :  100,
+                    "McLean Deluxe w/ Cheese"    :  100,
+                    "Big Mac"                    :  100,
+                    "Filet-O-Fish"               :  100,
+                    "McGrilled Chicken"          :  100,
+                    "Fries, small"               :  100,
+                    "Sausage McMuffin"           :  100,
+                    "1% Lowfat Milk"             :  100,
+                    "Orange Juice"               :  100
+                },	
+    "minkrav" : { 
+                    "Cal"     : 2000,
+                    "Carbo"   :  350,
+                    "Protein" :   55,
+                    "VitA"    :  100,
+                    "VitC"    :  100,
+                    "Calc"    :  100,
+                    "Iron"    :  100
+                },
+    "maxkrav" : {
+                    "Cal"     : 99999,
+                    "Carbo"   :   375,
+                    "Protein" : 99999,
+                    "VitA"    : 99999,
+                    "VitC"    : 99999,
+                    "Calc"    : 99999,
+                    "Iron"    : 99999
+                },
+    "inneh"   : {
+                    "Cal"     :	 {"Quarter Pounder w/ Cheese" : 510, "McLean Deluxe w/ Cheese" : 370, "Big Mac" : 500, "Filet-O-Fish" : 370, 
+                                    "McGrilled Chicken" : 400, "Fries, small" : 220, "Sausage McMuffin" : 345 ,"1% Lowfat Milk" : 110 , "Orange Juice" : 80},
+                    "Carbo"   :  {"Quarter Pounder w/ Cheese" : 34, "McLean Deluxe w/ Cheese" : 35, "Big Mac" : 42, "Filet-O-Fish" : 38, "McGrilled Chicken" : 42, "Fries, small" : 26, "Sausage McMuffin" : 27 ,"1% Lowfat Milk" : 12 , "Orange Juice" : 20},
+                    "Protein" :  {"Quarter Pounder w/ Cheese" : 28, "McLean Deluxe w/ Cheese" : 24, "Big Mac" : 25, "Filet-O-Fish" : 14, "McGrilled Chicken" : 31, "Fries, small" : 3, "Sausage McMuffin" : 15 ,"1% Lowfat Milk" : 9 , "Orange Juice" : 1},
+                    "VitA"    :  {"Quarter Pounder w/ Cheese" : 15, "McLean Deluxe w/ Cheese" : 15, "Big Mac" : 6, "Filet-O-Fish" : 2, "McGrilled Chicken" : 8, "Fries, small" : 0, "Sausage McMuffin" : 4 ,"1% Lowfat Milk" : 10 , "Orange Juice" : 2},
+                    "VitC"    :  {"Quarter Pounder w/ Cheese" : 6, "McLean Deluxe w/ Cheese" : 10, "Big Mac" : 2, "Filet-O-Fish" : 0, "McGrilled Chicken" : 15, "Fries, small" : 15, "Sausage McMuffin" : 0 ,"1% Lowfat Milk" : 4 , "Orange Juice" : 120},
+                    "Calc"    :  {"Quarter Pounder w/ Cheese" : 30, "McLean Deluxe w/ Cheese" : 20, "Big Mac" : 25, "Filet-O-Fish" : 15, "McGrilled Chicken" : 15, "Fries, small" : 0, "Sausage McMuffin" : 20,"1% Lowfat Milk" : 30 , "Orange Juice" : 2},
+                    "Iron"    :  {"Quarter Pounder w/ Cheese" : 20, "McLean Deluxe w/ Cheese" : 20, "Big Mac" : 20, "Filet-O-Fish" : 10, "McGrilled Chicken" : 8, "Fries, small" : 2, "Sausage McMuffin" : 15 ,"1% Lowfat Milk" : 0 , "Orange Juice" : 2}
+                }
+}
